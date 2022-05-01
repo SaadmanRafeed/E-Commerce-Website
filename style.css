@@ -1,0 +1,19 @@
+.bg-color{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.container{
+    border-radius: 10px;
+}
+.pricing{
+    color: deeppink;
+}
+.buyNowButton{
+    border: 1px solid deeppink;
+    background-color: deeppink;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 15px;
+}
